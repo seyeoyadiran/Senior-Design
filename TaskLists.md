@@ -1,4 +1,4 @@
-Project Task Lists]
+Project Task Lists
 
 1. Research Fighting animation
 2. Create fighing animation
