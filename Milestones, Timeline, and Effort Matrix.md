@@ -1,5 +1,6 @@
 Timeline:
 | Task #       |Task Description            |  Time Commitment |
+|------------ |  --------------------------| ------------------| 
 |       1      |Create fighing animation   |                   |
 |       2      |Design Landscape for Players|                  |
 |       3      |Test Fighting Animation     |                  |
