@@ -1,14 +1,11 @@
 Timeline:
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
+| Task #       |Task Description    |  Time Commitment |
+|------------- |-----------------   |------------------|
+| #1           |                    |                  |
 
 
 Effort Matrix:
 
 | Task       |Assignee  |  Effort |
 | --------   |--------- |-------- |
-| Tasks 1-15 |Seye      | 100%.   |
+| Tasks 1-15 |Seye      | 100%    |
