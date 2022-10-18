@@ -1,3 +1,14 @@
+Milestones List:
+
+(No Peticular Order) 
+1: Choosing Platform to create game
+2: Working game UX/UI
+3: Creating gameplay mechanics
+4: Developing player input controller
+5: Potential Multiplayer Creation
+6: Gameplay Testing
+7: Version #1 Launch
+
 Timeline:
 | Task #       |Task Description            |  Time Commitment |
 |------------ |  --------------------------| ------------------| 
@@ -12,7 +23,7 @@ Timeline:
 |       9      |Implement Control Key Input for PC |           |
 |       10     |Design UI for Player Start menu    |           |
 |       11     |Design UI for Player Customization |           |
-|       12     |Create Enemy AI                    |           |
+|       12     |Create Offline Enemy               |           |
 |       13     |Upload Game onto Steam/AppStore    |           |
 
 
