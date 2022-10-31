@@ -10,21 +10,21 @@ Milestones List:
 7: Version #1 Launch
 
 Timeline:
-| Task #       |Task Description            |  Time Commitment |
+| Task #       |Task Description            |  Time Commitment | 
 |------------ |  --------------------------| ------------------| 
-|       1      |Create fighing animation   |                   |
-|       2      |Design Landscape for Players|                  |
-|       3      |Test Fighting Animation     |                  |
-|       4      |Implement Ragdoll Physics   |                  |
-|       5      |Implement Player Scoring System|               |
-|       6      |Add Multiplayer Functionality|                 |
-|       7      |Research Server Hosting      |                 |
-|       8      |Implement Server Hosting or Multiplayer|       |
-|       9      |Implement Control Key Input for PC |           |
-|       10     |Design UI for Player Start menu    |           |
-|       11     |Design UI for Player Customization |           |
-|       12     |Create Offline Enemy               |           |
-|       13     |Upload Game onto Steam/AppStore    |           |
+|       1      |Create fighing animation   |       1 week         |
+|       2      |Design Landscape for Players|       1 week     |
+|       3      |Test Fighting Animation     |         1 week       |
+|       4      |Implement Ragdoll Physics   |           2 weeks      |
+|       5      |Implement Player Scoring System|      1 week        |
+|       6      |Add Multiplayer Functionality|         1 week     |
+|       7      |Research Server Hosting      |          1 week   |
+|       8      |Implement Server Hosting or Multiplayer|   1 week    |
+|       9      |Implement Control Key Input for PC |   3 days      |
+|       10     |Design UI for Player Start menu    |     2 weeks  |
+|       11     |Design UI for Player Customization |   1 week  |
+|       12     |Create Offline Enemy               |    1 week       |
+|       13     |Upload Game onto Steam/AppStore    |     1 week  |
 
 
 Effort Matrix:
