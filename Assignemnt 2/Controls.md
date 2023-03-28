@@ -1,4 +1,4 @@
-#Controls 
+# Controls 
 
 - Basic Movement:
   - Up: [W]
