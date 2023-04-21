@@ -5,7 +5,7 @@
 3. [User Manual](https://github.com/seyeoyadiran/Senior-Design/blob/main/Assignemnt%202/User%20Manual)
 4. [Spring Final PPT Presentatoin](https://docs.google.com/presentation/d/1e2qdJBwBAYDv126aasjZ2fAmkTVZMHVKlyusJL4hjbM/edit#slide=id.g22628d6cb64_0_74)
 5. [Final Expo Poster](https://github.com/seyeoyadiran/Senior-Design/blob/main/Senior%20Design%20Project%20copy.pdf)
-6. Assessments
+6. [Assessments](https://docs.google.com/document/d/1ILDJgfoZSJh_s5sgOt4ptFflFohutl7WxctkRlwvBZo/edit)
 7. Summary of Hours and Justification
 8. Summary of Expenses: $0
 9. Appendix
