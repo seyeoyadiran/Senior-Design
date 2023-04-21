@@ -7,5 +7,5 @@
 5. [Final Expo Poster](https://github.com/seyeoyadiran/Senior-Design/blob/main/Senior%20Design%20Project%20copy.pdf)
 6. Assessments
 7. Summary of Hours and Justification
-8. Summary of Expenses
+8. Summary of Expenses: $0
 9. Appendix
