@@ -2,7 +2,7 @@
 ## Final Design Report: Table of Context
 1. Project Description
 2. Test Plan and Results
-3. User Manual [GitHub Pages] (https://github.com/seyeoyadiran/Senior-Design/blob/main/Assignemnt%202/User%20Manual)
+3. User Manual [GitHub Pages](https://github.com/seyeoyadiran/Senior-Design/blob/main/Assignemnt%202/User%20Manual)
 4. Spring Final PPT Presentatoin
 5. Final Expo Poster
 6. Assessments
