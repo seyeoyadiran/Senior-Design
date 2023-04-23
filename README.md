@@ -8,4 +8,4 @@
 6. [Assessments](https://docs.google.com/document/d/1ILDJgfoZSJh_s5sgOt4ptFflFohutl7WxctkRlwvBZo/edit)
 7. [Summary of Hours and Justification](https://github.com/seyeoyadiran/Senior-Design/blob/main/SummaryHours.md)
 8. [Summary of Expenses](https://github.com/seyeoyadiran/Senior-Design/blob/main/Summary%20of%20Expenses.md)
-9. Appendix
+9. [Appendix](https://github.com/seyeoyadiran/Senior-Design/blob/main/Appendix.md)
