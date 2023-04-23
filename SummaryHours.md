@@ -1,4 +1,4 @@
-#Summary of Hours
+# Summary of Hours
 
 For this project in the fall Semester, as a solo developer, I spent about a week researching and experimenting with different game engines and chose 
 the unreal engine. For the first half of the semester,I spent on creating a gameplan fodr what I wanted to accomplish by creating a project roadmap,
