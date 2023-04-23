@@ -9,5 +9,5 @@ game because I already owned these items before the project began. However I wil
 | Mac M1 Mini  | $600  |
 | Unreal Engine | $ 0 |
 | External SSD 1TB| $90 | 
-|Logitech Keyboard and Mouse | 40|
-|Mac M1 Air | 1000 | 
+|Logitech Keyboard and Mouse | $40|
+|Mac M1 Air | $1000 | 
